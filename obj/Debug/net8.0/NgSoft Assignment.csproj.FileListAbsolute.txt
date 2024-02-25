@@ -1,0 +1,14 @@
+c:\Users\Adi Zahavi\Desktop\GitHub\NgSoft - Home Assignment\NgSoft Assignment\bin\Debug\net8.0\NgSoft Assignment.exe
+c:\Users\Adi Zahavi\Desktop\GitHub\NgSoft - Home Assignment\NgSoft Assignment\bin\Debug\net8.0\NgSoft Assignment.deps.json
+c:\Users\Adi Zahavi\Desktop\GitHub\NgSoft - Home Assignment\NgSoft Assignment\bin\Debug\net8.0\NgSoft Assignment.runtimeconfig.json
+c:\Users\Adi Zahavi\Desktop\GitHub\NgSoft - Home Assignment\NgSoft Assignment\bin\Debug\net8.0\NgSoft Assignment.dll
+c:\Users\Adi Zahavi\Desktop\GitHub\NgSoft - Home Assignment\NgSoft Assignment\bin\Debug\net8.0\NgSoft Assignment.pdb
+c:\Users\Adi Zahavi\Desktop\GitHub\NgSoft - Home Assignment\NgSoft Assignment\obj\Debug\net8.0\NgSoft Assignment.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Adi Zahavi\Desktop\GitHub\NgSoft - Home Assignment\NgSoft Assignment\obj\Debug\net8.0\NgSoft Assignment.AssemblyInfoInputs.cache
+c:\Users\Adi Zahavi\Desktop\GitHub\NgSoft - Home Assignment\NgSoft Assignment\obj\Debug\net8.0\NgSoft Assignment.AssemblyInfo.cs
+c:\Users\Adi Zahavi\Desktop\GitHub\NgSoft - Home Assignment\NgSoft Assignment\obj\Debug\net8.0\NgSoft Assignment.csproj.CoreCompileInputs.cache
+c:\Users\Adi Zahavi\Desktop\GitHub\NgSoft - Home Assignment\NgSoft Assignment\obj\Debug\net8.0\NgSoft Assignment.dll
+c:\Users\Adi Zahavi\Desktop\GitHub\NgSoft - Home Assignment\NgSoft Assignment\obj\Debug\net8.0\refint\NgSoft Assignment.dll
+c:\Users\Adi Zahavi\Desktop\GitHub\NgSoft - Home Assignment\NgSoft Assignment\obj\Debug\net8.0\NgSoft Assignment.pdb
+c:\Users\Adi Zahavi\Desktop\GitHub\NgSoft - Home Assignment\NgSoft Assignment\obj\Debug\net8.0\NgSoft Assignment.genruntimeconfig.cache
+c:\Users\Adi Zahavi\Desktop\GitHub\NgSoft - Home Assignment\NgSoft Assignment\obj\Debug\net8.0\ref\NgSoft Assignment.dll
